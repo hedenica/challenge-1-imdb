@@ -1,7 +1,7 @@
 # CODENATION
 ## WEEK ONE - CHALLENGE
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/1e73275e-4699-4441-998d-05a68475dec2/deploy-status)](https://app.netlify.com/sites/primeiro-desafio-codenation)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/1e73275e-4699-4441-998d-05a68475dec2/deploy-status)](https://primeiro-desafio-codenation.netlify.com/)
 
 
 O desafio era recriar uma landing page - com o formato do site IMDB (site onde é possível encontrar pontuações de filmes e seriados).
