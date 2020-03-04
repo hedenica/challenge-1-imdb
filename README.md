@@ -6,4 +6,5 @@
 
 O desafio era recriar uma landing page - com o formato do site IMDB (site onde é possível encontrar pontuações de filmes e seriados).
 
-**OBS:** fiz o deploy da landing page e aceito sugestões de melhoria no código 🤝
+**OBS 1:** fiz o deploy da landing page e aceito sugestões de melhoria no código 🤝 
+**OBS 2:** foi explicitamente solicitado que não fizesse a versão responsiva da landing page (por enquanto) ✌
